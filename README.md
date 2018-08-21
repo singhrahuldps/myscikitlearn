@@ -7,6 +7,9 @@ My implementation of some Machine Learning Algorithms from scratch.
 * Sklearn for accuracy_score
 
 ## Basic Usage
+Download the zip, extract and rename it to **myscikitlearn**
+
+Below is the gist for using various algorithms
 ```
 clf = Classifier()
 clf.fit(x_train, y_train)
