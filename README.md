@@ -7,7 +7,7 @@ My implementation of some Machine Learning Algorithms from scratch.
 * Sklearn for accuracy_score
 
 ## Basic Usage
-Download the zip, extract and rename it to **myscikitlearn**
+Download the zip, extract and rename the folder to **myscikitlearn**
 
 Below is the gist for using various algorithms
 ```
