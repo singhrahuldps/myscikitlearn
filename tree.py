@@ -111,6 +111,6 @@ class entropyDecisionTreeClassifier:
         return self.predict_tree(self.dt,x_test)
 
     def score(self,x_test,y_test):
-        from sklearn.metrics import accuracy_score
+        from .metrics import accuracy_score
         pred = self.predict(x_test)
         return accuracy_score(y_test,pred)
