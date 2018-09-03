@@ -1,7 +1,7 @@
 # myscikitlearn
 My implementation of some Machine Learning Algorithms from scratch.
 
-## Required libraries -
+## Required libraries
 * Numpy
 * Pandas
 * Sklearn for accuracy_score
